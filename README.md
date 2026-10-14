@@ -1,9 +1,10 @@
 # [Judul Skripsi]
-
-Klasifikasi fase pertumbuhan padi menggunakan Bi-LSTM dan LSTM berbasis data Sentinel-1 dan Sentinel-2.
+PEMETAAN FASE TUMBUH PADI MENGGUNAKAN DATA 
+SENTINEL-1 DAN SENTINEL-2 DENGAN PENDEKATAN 
+BIDIRECTIONAL LONG SHORT-TERM MEMORY 
+(Studi Kasus: Kabupaten Karawang, Jawa Barat)
 
 ## Identitas
-
 |                  |                                     |
 | ---------------- | ----------------------------------- |
 | Nama             | [HANA HANIFATUL HASANAH]            |
